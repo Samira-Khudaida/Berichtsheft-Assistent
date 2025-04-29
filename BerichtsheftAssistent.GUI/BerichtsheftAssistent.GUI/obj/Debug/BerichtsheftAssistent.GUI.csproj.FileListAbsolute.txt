@@ -1,0 +1,11 @@
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.csproj.AssemblyReference.cache
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.CustomMessageBox.resources
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.Form1.resources
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.Properties.Resources.resources
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.csproj.GenerateResource.cache
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.csproj.CoreCompileInputs.cache
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\bin\Debug\BerichtsheftAssistent.GUI.exe.config
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\bin\Debug\BerichtsheftAssistent.GUI.exe
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\bin\Debug\BerichtsheftAssistent.GUI.pdb
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.exe
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\obj\Debug\BerichtsheftAssistent.GUI.pdb

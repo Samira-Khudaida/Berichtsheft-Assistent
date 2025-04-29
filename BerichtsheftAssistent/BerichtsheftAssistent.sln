@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerichtsheftAssistent", "BerichtsheftAssistent\BerichtsheftAssistent.csproj", "{8273D2DA-0855-4990-B545-2D7700EFCE8E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3076D1F9-6882-4309-90BA-A9A07BBE1305} = {3076D1F9-6882-4309-90BA-A9A07BBE1305}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerichtsheftAssistent.GUI", "..\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI\BerichtsheftAssistent.GUI.csproj", "{3076D1F9-6882-4309-90BA-A9A07BBE1305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8273D2DA-0855-4990-B545-2D7700EFCE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8273D2DA-0855-4990-B545-2D7700EFCE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8273D2DA-0855-4990-B545-2D7700EFCE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8273D2DA-0855-4990-B545-2D7700EFCE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3076D1F9-6882-4309-90BA-A9A07BBE1305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3076D1F9-6882-4309-90BA-A9A07BBE1305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3076D1F9-6882-4309-90BA-A9A07BBE1305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3076D1F9-6882-4309-90BA-A9A07BBE1305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B2BF29-2AF8-444B-819E-9253130A650E}
+	EndGlobalSection
+EndGlobal

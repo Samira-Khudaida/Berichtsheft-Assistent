@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BerichtsheftAssistent.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReminderHour" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">11:30:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

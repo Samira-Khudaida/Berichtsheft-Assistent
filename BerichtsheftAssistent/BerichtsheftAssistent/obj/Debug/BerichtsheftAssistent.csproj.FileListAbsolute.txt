@@ -1,0 +1,9 @@
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.exe.config
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.exe
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.pdb
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\obj\Debug\BerichtsheftAssistent.csproj.AssemblyReference.cache
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\obj\Debug\BerichtsheftAssistent.ProjectInstaller.resources
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\obj\Debug\BerichtsheftAssistent.csproj.GenerateResource.cache
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\obj\Debug\BerichtsheftAssistent.csproj.CoreCompileInputs.cache
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\obj\Debug\BerichtsheftAssistent.exe
+C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\obj\Debug\BerichtsheftAssistent.pdb

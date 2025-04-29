@@ -1,0 +1,13 @@
+﻿Assembly C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.InstallLog
+   assemblypath = C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.exe
+Dienst BerichtsheftReminderService wird installiert...
+Dienst BerichtsheftReminderService wurde installiert.
+Die EventLog-Quelle BerichtsheftReminderService im Protokoll Application wird erstellt...
+Assembly C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.InstallLog
+   assemblypath = C:\Users\samira.khudaida\source\repos\BerichtsheftAssistent\BerichtsheftAssistent\bin\Debug\BerichtsheftAssistent.exe
